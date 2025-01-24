@@ -1,6 +1,8 @@
 {
   "name": "Jira Details",
-  "description": "Jira Details. Title, description, Copy to clipboard, Save as File",
+  "description": "Extract Jira issue details: title, description, copy to clipboard, save as file.",
+  "author": "Tshenolo Mos (@tshenolo)",
+  "homepage_url": "https://github.com/tshenolo/chrome-jira-details",
   "version": "1.0.0",
   "manifest_version": 3,
   "icons": {
