@@ -1,6 +1,6 @@
 # Jira Details Chrome Extension
 
-Jira Details is a Chrome extension that allows users to extract and manage Jira issue details, including title and description. The extension provides features to copy details to the clipboard or save them as a file.
+Jira Details: A Chrome extension that simplifies Jira workflows by enabling quick copying of issue details to your clipboard or saving them as files.
 
 ![Screenshot](Jira-details-screenshot.png)
 
